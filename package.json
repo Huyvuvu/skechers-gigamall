@@ -1,0 +1,13 @@
+{
+  "name": "skechers-gigamall-outlet",
+  "version": "1.0.0",
+  "description": "Skechers Vietnam – Giga Mall Outlet | E-commerce website",
+  "scripts": {
+    "build": "echo 'Static build complete'",
+    "dev": "npx serve . -p 3000",
+    "start": "npx serve . -p 3000"
+  },
+  "keywords": ["skechers", "vietnam", "ecommerce", "gigamall"],
+  "author": "Vu Nguyen Quoc Huy",
+  "license": "MIT"
+}
